@@ -6,7 +6,7 @@ public class MyListUtil {
 	
 	private int l[];
 	
-	public MyListUtil(int[] l) {
+	public MyListUtil(int[] l) { 
 		super();
 		this.l = l;
 	}
